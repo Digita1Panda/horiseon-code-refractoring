@@ -8,6 +8,8 @@
 - I have done this by using semantics in the HTML file and using "alt" for image tags.
 - I have learned a great deal from padding to display properties and how the webpage is setup.
 
+[github page](https://digita1panda.github.io/week-01-code-refractor-challenge/)
+
 
 ## Installation
 
@@ -16,9 +18,7 @@ N/A
 
 ## Usage 
 
-![Webpage](assets/images/Webpage.png)
-![Webpage](assets/images/Website-with-code.png)
-![Webpage](assets/images/Webpage-content-with-code.png)
+![Webpage](assets/images/Webpage-Gitub.png)
 
 ## Credits
 
