@@ -16,18 +16,14 @@ N/A
 
 ## Usage 
 
-Provide instructions and examples for use. Include screenshots as needed. 
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
-```md
-![alt text](assets/images/screenshot.png)
-```
-
+![Webpage](assets/images/Webpage.png)
+![Webpage](assets/images/Website-with-code.png)
+![Webpage](assets/images/Webpage-content-with-code.png)
 
 ## Credits
 
 N/A
+
 
 ## License
 
@@ -38,7 +34,12 @@ MIT License
 
 ## Badges
 
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+=======
 N/A
+
 
 ## Features
 
@@ -46,11 +47,13 @@ N/A
 
 ## Contributing
 
-If you created an application or package and would like other developers to contribute it, you will want to add guidelines for how to do so. The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard, but you can always write your own.
+https://www.w3schools.com/tags/tag_abbr.asp
+https://www.w3schools.com/tags/default.asp 
+
 
 ## Tests
 
-Go the extra mile and write tests for your application. Then provide examples on how to run them.
+N/A
 
 ---
 
