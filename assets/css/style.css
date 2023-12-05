@@ -5,10 +5,12 @@
     margin: 0;
 }
 
+/* This sets the background colour of the entire page */
 body {
     background-color: #d9dcd6;
 }
 
+/* Sets the parameters to the header, padding, font, background colour and the font colour.*/
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -16,16 +18,19 @@ header {
     color: #ffffff;
 }
 
+/* Set the h1 Horiseon to inline-block so the nav can go on the same line. Also sets the font size */
 header h1 {
         display: inline-block;
         font-size: 48px;
 }
 
+/* Semantic setting abbreviations of the seo text, it is styled in the desired colour. */
 abbr {
     color: #d9dcd6;
     text-decoration: none;
 }
 
+/* Sets parameters to the navigation bar. Padding top will push it down towards center, margin right will give it a little gap on the right. It floats the text to the right, sets font family and size. */
 nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -34,15 +39,24 @@ nav {
     font-size: 20px;
 }
 
+/* Set it so it does not display bullet points. */
 nav ul {
     list-style-type: none;
 }
 
+/* To make the list horizontal next to each other and sets  25px gap in between them */
 nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
 
+/* Makes the hyperlink colour white and no underline */
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+/* It is a background image set to paramters with its max width and height it is. It will be aligned to center and the background will be set to cover with a margin at the bottom to seperate from what is beneath*/
 .meeting {
     height: 800px;
     width: 100%;
@@ -52,33 +66,33 @@ nav ul li {
     background-position: center;
 }
 
+/* This will define the parameters of the main content. It will take up 75% of the space starting from left. It will be inline-block which allows later content on the right of it. Also it will set a margin left which will give it a gap. */
 main {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
-a {
-    color: #ffffff;
-    text-decoration: none;
-}
-
+/* Sets the font size to 16px */
 p {
     font-size: 16px;
 }
 
+/* Assign anything with the selector float-left to float left with margin gap on the right and a max height of the picture */
 .float-left {
     float: left;
     margin-right: 25px;
     max-height: 200px;
 }
 
+/* Assign anything with the selector float-right to float right with margin gap on the left and a max height of the picture */
 .float-right {
     float: right;
     margin-left: 25px;
     max-height: 200px;
 }
 
+/* Groups all the selected selectors and set it's parameters to have a margin at the bottom of each section of content giving it a gap. Padding putting it towards the center. The height sets how big it is. With font family, colour and background colour. */
 .search-engine-optimization, .online-reputation-management, .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
@@ -88,11 +102,13 @@ p {
     color: #ffffff;
 }
 
+/* Group all the selected selectors and the h2 to have a margin bottom giving it a gap and setting font size. */
 .search-engine-optimization h2, .online-reputation-management h2, .social-media-marketing h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
+/* Push content next to main to the right side allowing it to take 20% of the space when floating right, while setting its parameters such as background colour and font family with padding allowing it to be centered. */
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -104,22 +120,26 @@ aside {
     background-color: #2589bd;
 }
 
+/* Grouping all the selected selectors together and setting it to have a margin gap at the bottom and colour of the font. */
 .benefit-lead, .benefit-brand, .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
+/* Grouping all the selected selectors together and setting it to have margin gap at the bottom and aligning the tect to be centered. */
 .benefit-lead h3, .benefit-brand h3, .benefit-cost h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
+/* Grouping all the selected selectors together and setting it to be a block so it will be centered with margin top and bottom gap of 20px, with max width so it fits in the aside center */
 .benefit-lead img, .benefit-brand img, .benefit-cost img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
+/* Set parameter of the footer to have a padding all round of 30px, font family and aligning it to the center. */
 footer {
     padding: 30px;
     clear: both;
@@ -127,6 +147,7 @@ footer {
     text-align: center;
 }
 
-footer h2 {
+/* Sets the h4 to font size 20px */
+footer h4 {
     font-size: 20px;
 }
