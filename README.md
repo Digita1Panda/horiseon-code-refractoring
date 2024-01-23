@@ -9,6 +9,7 @@
 - I have learned a great deal from padding to display properties and how the webpage is setup.
 
 [Github Page](https://github.com/Digita1Panda/week-01-code-refractor-challenge)
+
 [Horiseon SEO site](https://digita1panda.github.io/week-01-code-refractor-challenge/)
 
 ## Installation
