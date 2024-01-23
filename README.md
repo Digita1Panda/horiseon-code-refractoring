@@ -1,6 +1,6 @@
 # Week 01 Horiseon code refractor challenge
 
-## Description 
+## Description
 
 - This is my first challenge of bootcamp front end web developement. I have taken a big leap and decided to learn coding. I have been motivated by the nice design and UX that is out there.
 - I am to refractor the code and in accordance to the "scouts rule" to clean up the code to HTML and the CSS stylesheet.
@@ -8,15 +8,14 @@
 - I have done this by using semantics in the HTML file and using "alt" for image tags.
 - I have learned a great deal from padding to display properties and how the webpage is setup.
 
-[github page](https://digita1panda.github.io/week-01-code-refractor-challenge/)
-
+[Github Page](https://github.com/Digita1Panda/week-01-code-refractor-challenge)
+[Horiseon SEO site](https://digita1panda.github.io/week-01-code-refractor-challenge/)
 
 ## Installation
 
 N/A
 
-
-## Usage 
+## Usage
 
 ![Webpage](assets/images/Webpage-Gitub.png)
 
@@ -24,21 +23,15 @@ N/A
 
 N/A
 
-
 ## License
 
 MIT License
-
 
 ---
 
 ## Badges
 
-
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
-
-
 
 ## Features
 
@@ -47,8 +40,7 @@ N/A
 ## Contributing
 
 https://www.w3schools.com/tags/tag_abbr.asp
-https://www.w3schools.com/tags/default.asp 
-
+https://www.w3schools.com/tags/default.asp
 
 ## Tests
 
