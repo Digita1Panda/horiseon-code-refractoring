@@ -18,7 +18,7 @@ N/A
 
 ## Usage
 
-![Webpage](assets/images/Webpage-Gitub.png)
+![Webpage](./assets/images/screenshot-1.png)
 
 ## Credits
 
