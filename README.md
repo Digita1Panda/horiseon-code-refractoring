@@ -8,9 +8,9 @@
 - I have done this by using semantics in the HTML file and using "alt" for image tags.
 - I have learned a great deal from padding to display properties and how the webpage is setup.
 
-[Github Page](https://github.com/Digita1Panda/week-01-code-refractor-challenge)
+[Github Page](https://github.com/Digita1Panda/horiseon-code-refractoring)
 
-[Horiseon SEO site](https://digita1panda.github.io/week-01-code-refractor-challenge/)
+[Horiseon SEO site](https://digita1panda.github.io/horiseon-code-refractoring/)
 
 ## Installation
 
